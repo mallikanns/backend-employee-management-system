@@ -1,11 +1,26 @@
 
 # Employee Management System
 
+## Overview
+Employee Management System project is full-stack web application, built using Spring Boot for the backend, React/Next for the frontend, and integrates features such as a REST API, MySQL database, React Hooks.
+
+## Features
+
+- Create new employees.
+- Delete existing employees.
+- Edit employee details.
+- List all employees.
+
+
 ## Tech Stack
 
-**Client:** React, TailwindCSS
+**Frontend:** 
+- React with Tailwind CSS for styling.
+- React Router for navigation.
 
-**Server:** Spring Boot, MySQL
+**Backend:** 
+- Spring Boot for REST API development.
+- MySQL database for storing employee data.
 
 
 ## Screenshots
